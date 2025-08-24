@@ -13,13 +13,6 @@
   </div>
 </div> <br>
 <div style="text-align: left;">
-  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Contact </h1>
-  <div style="text-align: left;">
-    <a href=""> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-    <a href=""> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a>
-  </div>
-</div> <br>
-<div style="text-align: left;">
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h1>
   <div style="text-align: left;">
     <img src="https://github-readme-stats.vercel.app/api?username=jejal&theme=dracula&show_icons=true"/>
