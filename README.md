@@ -2,6 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=e2e2e2&height=240&text=jejal's%20GitHub&animation=&fontColor=363636&fontSize=70" />
 </div>
 <div style="text-align: left;">
+  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👤 About Me </h1>
+  <div style="text-align: left;">
+    <b>Building expertise in <kbd>&nbsp;🛡️ Cybersecurity&nbsp;</kbd> through hands-on projects and practical experience.</b>
+    <b>Focused on understanding <kbd>&nbsp;🔐 Security Challenges&nbsp;</kbd> and applying technology to solve them effectively.</b>
+  </div>
+</div> <br>
+<div style="text-align: left;">
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Skills </h1>
   <div style="text-align: left;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
