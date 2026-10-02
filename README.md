@@ -1,5 +1,5 @@
 <div align= "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e2e2e2&height=240&text=jejal's%20Github&animation=&fontColor=363636&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e2e2e2&height=240&text=jejal's%20GitHub&animation=&fontColor=363636&fontSize=70" />
 </div>
 <div style="text-align: left;">
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Skills </h1>
