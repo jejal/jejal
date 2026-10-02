@@ -4,7 +4,7 @@
 <div style="text-align: left;">
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👤 About Me </h1>
   <div style="text-align: left;">
-    <b>Building expertise in <kbd>&nbsp;🛡️ Cybersecurity&nbsp;</kbd> through hands-on projects and practical experience.</b>
+    <b>Building expertise in <kbd>&nbsp;🛡️ Cybersecurity&nbsp;</kbd> through hands-on projects and practical experience.</b> <br>
     <b>Focused on understanding <kbd>&nbsp;🔐 Security Challenges&nbsp;</kbd> and applying technology to solve them effectively.</b>
   </div>
 </div> <br>
