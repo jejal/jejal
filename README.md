@@ -24,10 +24,3 @@
     <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black">
   </div>
 </div> <br>
-<div style="text-align: left;">
-  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h1>
-  <div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jejal&theme=dracula&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejal&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-  </div>
-</div>
